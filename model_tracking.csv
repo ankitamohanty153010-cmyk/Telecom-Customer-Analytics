@@ -1,0 +1,2 @@
+model_version,model_name,start_time,end_time,source,parameters,MAE,MSE,RMSE,R2_Score,artifact
+v1.0,Linear Regression,2026-08-10 23:22:24.905018,2026-08-10 23:22:24.914732,TELECOM.ipynb - satisfaction_data,"{'copy_X': True, 'fit_intercept': True, 'n_jobs': None, 'positive': False, 'tol': 1e-06}",2.1542583973927917e-16,1.0531524980974698e-31,3.2452311136457907e-16,1.0,satisfaction_model_v1.pkl
